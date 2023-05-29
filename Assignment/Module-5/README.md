@@ -1,5 +1,5 @@
-# HTML-CSS-and-Javascript-for-Web-Developers
+# Module-5 Coding Assignment
 
-# Module-5 Task
-To see the output: 
-# [click here ](https://geevar123.github.io/HTML-CSS-and-Javascript-for-Web-Developers/Assignment/Module-5/index.html) 
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https://geevar123.github.io/HTML-CSS-and-Javascript-for-Web-Developers/Assignment/Module-5/index.html)
